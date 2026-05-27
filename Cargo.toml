@@ -1,0 +1,15 @@
+[package]
+name = "flux-hyperbolic"
+version = "0.1.0"
+edition = "2021"
+description = "Hyperbolic geometry for musical tradition embeddings — Poincaré ball and Lorentz models"
+license = "MIT"
+keywords = ["hyperbolic", "poincare", "lorentz", "embedding", "superinstance"]
+categories = ["mathematics", "science"]
+repository = "https://github.com/SuperInstance/flux-hyperbolic-rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
+approx = "0.5"
