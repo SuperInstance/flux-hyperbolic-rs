@@ -36,3 +36,5 @@ Pure Rust port with no Python FFI. Same mathematical formulas, idiomatic Rust AP
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
